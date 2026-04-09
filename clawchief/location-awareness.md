@@ -25,7 +25,7 @@ Location is part of task context, not a nice-to-have.
 A good daily plan should distinguish between:
 - can do anywhere
 - can do while traveling
-- requires being at home in Essex
+- requires being at the principal's home base
 - requires being at a specific appointment location
 - can be delegated by R2
 
@@ -44,10 +44,10 @@ A good daily plan should distinguish between:
    - blocked while traveling
    - delegate to someone else
    - reschedule to the next plausible date/location window
-6. Prefer specific language over implicit assumptions. Example: "blocked while Ryan is traveling; home task in Essex" is better than silently leaving the task open.
-7. Use calendar/travel context plus explicit statements from Ryan as the source of truth for current location assumptions.
-8. For scheduling decisions, the Family calendar under `ryan@ryancarson.com` is a required travel source of truth, not optional supporting context.
-9. If location is uncertain and it changes whether the task is actionable or whether Ryan can take a meeting, ask or mark the assumption clearly and do not book.
+6. Prefer specific language over implicit assumptions. Example: "blocked while the principal is traveling; home-base task" is better than silently leaving the task open.
+7. Use calendar/travel context plus explicit statements from the principal as the source of truth for current location assumptions.
+8. For scheduling decisions, the designated family/shared conflict calendar is a required travel source of truth, not optional supporting context.
+9. If location is uncertain and it changes whether the task is actionable or whether the principal can take a meeting, ask or mark the assumption clearly and do not book.
 
 ## Integration points
 
@@ -59,10 +59,10 @@ A good daily plan should distinguish between:
 
 ## Examples
 
-- "Brush Brinkley's teeth" while Ryan is in Denver -> move out of `Today`, mark blocked while traveling, and make the Essex/home constraint visible.
-- "Phone call with sisters" while traveling -> still actionable because location does not block it.
-- "Untangle Intro Call" while traveling -> still actionable unless travel logistics or time zone conflict interfere.
-- "Check Newsworthy" while traveling -> still actionable if it can be done online.
+- "Handle pet-care task" while the principal is traveling -> move out of `Today`, mark blocked while traveling, and make the home-base constraint visible.
+- "Phone call with family" while traveling -> still actionable because location does not block it.
+- "Intro call" while traveling -> still actionable unless travel logistics or time zone conflict interfere.
+- "Check publication queue" while traveling -> still actionable if it can be done online.
 
 ## Follow-through
 

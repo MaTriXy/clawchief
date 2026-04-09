@@ -410,11 +410,11 @@ The system should treat trust, family, loyalty, and relationship depth as real p
 - Default action:
   - handle and summarize
 
-### Essex Yacht Club Communications Chair
+### Club / community communications role
 - Why it matters:
-  - Ryan is chair of the Communications Committee at Essex Yacht Club
+  - the principal holds a recurring communications leadership role in a community organization
   - this is a named recurring role / program, not generic admin
-  - EYC work is a real recurring commitment and should not disappear into generic admin noise
+  - this work is a real recurring commitment and should not disappear into generic admin noise
 - Watch for:
   - Newsworthy
   - Spyglass
